@@ -1,0 +1,32 @@
+{
+    "usersData": [
+        {
+            "id": "02",
+            "username": "U19",
+            "email": "RR@gmail.com",
+            "password": "5599fff1ab176a2f0dc202653ec6ca14f511089e23655f4ca08bdd6ed1737209",
+            "role": "admin"
+        },
+        {
+            "id": "01",
+            "username": "U18",
+            "email": "uu@gmail.com",
+            "password": "442d4d600cd4f74242aaa96f2e518facfab9107beec8d478b5073501b71756d8",
+            "role": "user"
+        },
+        {
+            "id": "07",
+            "username": "S7",
+            "email": "savan@gmail.com",
+            "password": "f381942e6e51cc4415d2adfb6f231e899e649435f6e920387d16e3353acc9c83",
+            "role": "user"
+        },
+        {
+            "id": "08",
+            "username": "J8",
+            "email": "jadeja@gmail.com",
+            "password": "cae430f56f603b88c22a22087e6253314f1f185f1bd15ab947c8942ad420b562",
+            "role": "admin"
+        }
+    ]
+}
